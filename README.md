@@ -250,23 +250,7 @@ Machine Learning project that predicts agricultural crop yield using environment
 
 <td colspan="2" align="center">
 
-## 🚦 Smart Traffic Management System
 
-Hackathon project focused on intelligent traffic management for smart cities.
-
-**Tech Stack**
-
-`Java` • `AI`
-
-🔗 **Repository**
-
-[View Project](https://github.com/yash-D-Dalavi/ecos-hackathon-2026)
-
-</td>
-
-</tr>
-
-</table>
 
 ---
 
