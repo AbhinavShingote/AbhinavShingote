@@ -100,3 +100,85 @@ Full Stack Developer • Java Developer • AI & ML • Data Science • AWS •
 <!-- ========================================================= -->
 <!--                  END OF PART 1                            -->
 <!-- ========================================================= -->
+
+<!-- ========================================================= -->
+<!--                PART 2 - GITHUB ANALYTICS                  -->
+<!-- ========================================================= -->
+
+# 📊 GitHub Analytics
+
+<p align="center">
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=AbhinavShingote&show_icons=true&theme=tokyonight&hide_border=true&count_private=true"/>
+
+<img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=AbhinavShingote&theme=tokyonight&hide_border=true"/>
+
+</p>
+
+---
+
+# 💻 Most Used Languages
+
+<p align="center">
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AbhinavShingote&layout=compact&theme=tokyonight&hide_border=true&langs_count=8"/>
+
+</p>
+
+---
+
+# 🏆 GitHub Trophies
+
+<p align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=AbhinavShingote&theme=algolia&no-frame=true&no-bg=true&margin-w=12&row=1"/>
+
+</p>
+
+---
+
+# 📈 Contribution Graph
+
+<p align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=AbhinavShingote&theme=tokyo-night&hide_border=true"/>
+
+</p>
+
+---
+
+# 📌 GitHub Overview
+
+<p align="center">
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=AbhinavShingote&theme=github_dark"/>
+
+</p>
+
+---
+
+# ⚡ Quick Stats
+
+<p align="center">
+
+<img src="https://img.shields.io/badge/Public%20Repositories-🚀-2563EB?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/Open%20Source-💙-0EA5E9?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/Java-Spring%20Boot-success?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/AI%20Projects-ML-important?style=for-the-badge"/>
+
+</p>
+
+---
+
+<p align="center">
+
+<i>"Consistency is the key to becoming a better developer."</i>
+
+</p>
+
+<!-- ========================================================= -->
+<!--                    END OF PART 2                          -->
+<!-- ========================================================= -->
