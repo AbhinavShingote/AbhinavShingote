@@ -1,3 +1,5 @@
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:00C2FF,100:1E3A8A&height=220&section=header&text=Abhinav%20Shingote&fontSize=45&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Full%20Stack%20Developer%20|%20Java%20Developer%20|%20AI%20ML&descAlignY=60"/>
+
 <h1 align="center">Hi 👋, I'm Abhinav Shingote</h1>
 
 <h3 align="center">
