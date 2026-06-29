@@ -133,77 +133,42 @@ width="240"/>
 </p>
 
 ---
+---
 
 # 🚀 Featured Projects
 
 <table>
 <tr>
 
-<td width="50%">
+<td width="50%" valign="top">
 
-### 🧠 Smart Personalized Learning
+## 🧠 Smart Personalized Learning
 
-AI-powered personalized learning platform designed to improve learning experiences using Machine Learning.
+AI-powered personalized learning platform designed to deliver customized learning experiences using Machine Learning.
 
 **Tech Stack**
 
-`Python` `AI/ML` `Machine Learning`
+`Python` • `AI/ML`
 
 🔗 **Repository**
 
-https://github.com/AbhinavShingote/Smart-Personalized-Learning-Using-AIML
+[View Project](https://github.com/AbhinavShingote/Smart-Personalized-Learning-Using-AIML)
 
 </td>
 
-<td width="50%">
+<td width="50%" valign="top">
 
-### ❤️ Heart Disease Prediction
+## ❤️ Heart Disease Prediction
 
-Machine Learning model for predicting heart disease using healthcare datasets.
-
-**Tech Stack**
-
-`Python` `Machine Learning`
-
-🔗 **Repository**
-
-https://github.com/AbhinavShingote/Heart-Disease-Prediction
-
-</td>
-
-</tr>
-
-<tr>
-
-<td width="50%">
-
-### 🏥 ArogyaSetu+
-
-AI-powered Telehealth and Electronic Health Record System.
+Machine Learning model that predicts the possibility of heart disease using medical datasets.
 
 **Tech Stack**
 
-`Java` `Spring Boot` `React`
+`Python` • `Machine Learning`
 
 🔗 **Repository**
 
-https://github.com/IngolePrasad777/ArogyaSetu-
-
-</td>
-
-<td width="50%">
-
-### 📄 Resume Credential Fraud Detection
-
-Intelligent system for verifying resume credentials and detecting fraudulent information.
-
-**Tech Stack**
-
-`Python` `Machine Learning`
-
-🔗 **Repository**
-
-https://github.com/AbhinavShingote/Resume-Credential-Fraud-Detection
+[View Project](https://github.com/AbhinavShingote/Heart-Disease-Prediction)
 
 </td>
 
@@ -211,11 +176,47 @@ https://github.com/AbhinavShingote/Resume-Credential-Fraud-Detection
 
 <tr>
 
-<td width="50%">
+<td width="50%" valign="top">
 
-### ⚡ Electric Motor Temperature Prediction
+## 🏥 ArogyaSetu+
 
-Predictive analytics model for monitoring electric motor temperature.
+AI-powered Telehealth & Electronic Health Record (EHR) System providing secure healthcare services.
+
+**Tech Stack**
+
+`Java` • `Spring Boot` • `React`
+
+🔗 **Repository**
+
+[View Project](https://github.com/IngolePrasad777/ArogyaSetu-)
+
+</td>
+
+<td width="50%" valign="top">
+
+## 📄 Resume Credential Fraud Detection
+
+Intelligent system for detecting fake credentials and verifying resume information.
+
+**Tech Stack**
+
+`Python` • `Machine Learning`
+
+🔗 **Repository**
+
+[View Project](https://github.com/AbhinavShingote/Resume-Credential-Fraud-Detection)
+
+</td>
+
+</tr>
+
+<tr>
+
+<td width="50%" valign="top">
+
+## ⚡ Electric Motor Temperature Prediction
+
+Predictive analytics model for monitoring electric motor temperature using machine learning.
 
 **Tech Stack**
 
@@ -223,15 +224,15 @@ Predictive analytics model for monitoring electric motor temperature.
 
 🔗 **Repository**
 
-https://github.com/AbhinavShingote/Electric-Motor-Temperature-Prediction
+[View Project](https://github.com/AbhinavShingote/Electric-Motor-Temperature-Prediction)
 
 </td>
 
-<td width="50%">
+<td width="50%" valign="top">
 
-### 🌾 Crop Yield Prediction
+## 🌾 Crop Yield Prediction
 
-Machine Learning model for agricultural crop yield prediction.
+Machine Learning project that predicts agricultural crop yield using environmental and historical data.
 
 **Tech Stack**
 
@@ -239,7 +240,7 @@ Machine Learning model for agricultural crop yield prediction.
 
 🔗 **Repository**
 
-https://github.com/AbhinavShingote/Crop-Yield-Prediction-
+[View Project](https://github.com/AbhinavShingote/Crop-Yield-Prediction-)
 
 </td>
 
@@ -247,19 +248,19 @@ https://github.com/AbhinavShingote/Crop-Yield-Prediction-
 
 <tr>
 
-<td colspan="2">
+<td colspan="2" align="center">
 
-### 🚦 Smart Traffic Management System
+## 🚦 Smart Traffic Management System
 
-Smart city solution developed during Hackathon to improve urban traffic management.
+Hackathon project focused on intelligent traffic management for smart cities.
 
 **Tech Stack**
 
-`Java` `AI`
+`Java` • `AI`
 
 🔗 **Repository**
 
-https://github.com/yash-D-Dalavi/ecos-hackathon-2026
+[View Project](https://github.com/yash-D-Dalavi/ecos-hackathon-2026)
 
 </td>
 
@@ -275,22 +276,10 @@ https://github.com/yash-D-Dalavi/ecos-hackathon-2026
 
 <a href="https://drive.google.com/file/d/1IEB8N-BRVNTbjj0_AeCwEeU6pmLBjgU1/view?usp=sharing">
 
-<img src="https://img.shields.io/badge/View%20Resume-2563EB?style=for-the-badge&logo=googledrive&logoColor=white"/>
+<img src="https://img.shields.io/badge/📄%20View%20Resume-2563EB?style=for-the-badge"/>
 
 </a>
 
 </p>
 
 ---
-
-# 💬 Quote
-
-<p align="center">
-
-<i>
-
-"Turning ideas into scalable software solutions."
-
-</i>
-
-</p>
