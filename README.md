@@ -101,84 +101,165 @@ Full Stack Developer • Java Developer • AI & ML • Data Science • AWS •
 <!--                  END OF PART 1                            -->
 <!-- ========================================================= -->
 
-<!-- ========================================================= -->
-<!--                PART 2 - GITHUB ANALYTICS                  -->
-<!-- ========================================================= -->
+---
 
-# 📊 GitHub Analytics
+# 🚀 Featured Projects
+
+<table>
+<tr>
+
+<td width="50%">
+
+### 🧠 Smart Personalized Learning
+
+AI-powered personalized learning platform designed to improve learning experiences using Machine Learning.
+
+**Tech Stack**
+
+`Python` `AI/ML` `Machine Learning`
+
+🔗 **Repository**
+
+https://github.com/AbhinavShingote/Smart-Personalized-Learning-Using-AIML
+
+</td>
+
+<td width="50%">
+
+### ❤️ Heart Disease Prediction
+
+Machine Learning model for predicting heart disease using healthcare datasets.
+
+**Tech Stack**
+
+`Python` `Machine Learning`
+
+🔗 **Repository**
+
+https://github.com/AbhinavShingote/Heart-Disease-Prediction
+
+</td>
+
+</tr>
+
+<tr>
+
+<td width="50%">
+
+### 🏥 ArogyaSetu+
+
+AI-powered Telehealth and Electronic Health Record System.
+
+**Tech Stack**
+
+`Java` `Spring Boot` `React`
+
+🔗 **Repository**
+
+https://github.com/IngolePrasad777/ArogyaSetu-
+
+</td>
+
+<td width="50%">
+
+### 📄 Resume Credential Fraud Detection
+
+Intelligent system for verifying resume credentials and detecting fraudulent information.
+
+**Tech Stack**
+
+`Python` `Machine Learning`
+
+🔗 **Repository**
+
+https://github.com/AbhinavShingote/Resume-Credential-Fraud-Detection
+
+</td>
+
+</tr>
+
+<tr>
+
+<td width="50%">
+
+### ⚡ Electric Motor Temperature Prediction
+
+Predictive analytics model for monitoring electric motor temperature.
+
+**Tech Stack**
+
+`Python`
+
+🔗 **Repository**
+
+https://github.com/AbhinavShingote/Electric-Motor-Temperature-Prediction
+
+</td>
+
+<td width="50%">
+
+### 🌾 Crop Yield Prediction
+
+Machine Learning model for agricultural crop yield prediction.
+
+**Tech Stack**
+
+`Python`
+
+🔗 **Repository**
+
+https://github.com/AbhinavShingote/Crop-Yield-Prediction-
+
+</td>
+
+</tr>
+
+<tr>
+
+<td colspan="2">
+
+### 🚦 Smart Traffic Management System
+
+Smart city solution developed during Hackathon to improve urban traffic management.
+
+**Tech Stack**
+
+`Java` `AI`
+
+🔗 **Repository**
+
+https://github.com/yash-D-Dalavi/ecos-hackathon-2026
+
+</td>
+
+</tr>
+
+</table>
+
+---
+
+# 📄 Resume
 
 <p align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=AbhinavShingote&show_icons=true&theme=tokyonight&hide_border=true&count_private=true"/>
+<a href="https://drive.google.com/file/d/1IEB8N-BRVNTbjj0_AeCwEeU6pmLBjgU1/view?usp=sharing">
 
-<img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=AbhinavShingote&theme=tokyonight&hide_border=true"/>
+<img src="https://img.shields.io/badge/View%20Resume-2563EB?style=for-the-badge&logo=googledrive&logoColor=white"/>
+
+</a>
 
 </p>
 
 ---
 
-# 💻 Most Used Languages
+# 💬 Quote
 
 <p align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AbhinavShingote&layout=compact&theme=tokyonight&hide_border=true&langs_count=8"/>
+<i>
+
+"Turning ideas into scalable software solutions."
+
+</i>
 
 </p>
-
----
-
-# 🏆 GitHub Trophies
-
-<p align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=AbhinavShingote&theme=algolia&no-frame=true&no-bg=true&margin-w=12&row=1"/>
-
-</p>
-
----
-
-# 📈 Contribution Graph
-
-<p align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=AbhinavShingote&theme=tokyo-night&hide_border=true"/>
-
-</p>
-
----
-
-# 📌 GitHub Overview
-
-<p align="center">
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=AbhinavShingote&theme=github_dark"/>
-
-</p>
-
----
-
-# ⚡ Quick Stats
-
-<p align="center">
-
-<img src="https://img.shields.io/badge/Public%20Repositories-🚀-2563EB?style=for-the-badge"/>
-
-<img src="https://img.shields.io/badge/Open%20Source-💙-0EA5E9?style=for-the-badge"/>
-
-<img src="https://img.shields.io/badge/Java-Spring%20Boot-success?style=for-the-badge"/>
-
-<img src="https://img.shields.io/badge/AI%20Projects-ML-important?style=for-the-badge"/>
-
-</p>
-
----
-
-<p align="center">
-
-<i>"Consistency is the key to becoming a better developer."</i>
-
-</p>
-
-<!-- ========================================================= -->
-<!--                    END OF PART 2                          -->
-<!-- ========================================================= -->
