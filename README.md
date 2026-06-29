@@ -19,8 +19,11 @@ Full Stack Developer • Java Developer • AI & ML • Data Science • AWS •
 
 # 💫 About Me
 
-<img align="right" alt="Coding" width="350" src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif">
-
+<p align="right">
+<img src="./"
+width="300"
+style="border-radius:50%;">
+</p>
 🎓 **Computer Engineering Student**
 
 💻 Passionate about building scalable web applications and AI-powered software solutions.
