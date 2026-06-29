@@ -48,7 +48,7 @@ Full Stack Developer • Java Developer • AI & ML • Data Science • AWS •
 
 <td width="40%" align="center">
 
-<img src="./"
+<img src="./1771221979823 (1).png"
 width="240"/>
 
 </td>
